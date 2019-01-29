@@ -19,4 +19,4 @@ my goal with this project was to show understanding for frontend development.
 - Resonsive design, Was not in the instructions but can be solved with media queries. 
 - User experience, lack of time & not in the instructions. But acknowledges it as important.
 
-## [FRONTEND](https://github.com/hajarrashidi/etraveli/tree/master/frontend)
+## [FRONTEND](https://github.com/hajarrashidi/etraveliGroup/tree/master/frontend)
