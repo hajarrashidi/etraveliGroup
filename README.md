@@ -1,4 +1,4 @@
-# etraveli Group
+# Etraveli Group
 A frontend project for Etraveli created by Hajar Rashidi. 
 my goal with this project was to show understanding for frontend development.
 
